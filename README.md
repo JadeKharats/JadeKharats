@@ -2,7 +2,7 @@
 
 **Software craftsman · Crystal ambassador · Nantes, France**
 
-Freelance consultant ([Shodo Nantes](https://shodo.io)) with ~20 years in software —
+IT consultant ([Shodo Nantes](https://shodo.io)) with ~20 years in software —
 developer, QA engineer, DevOps/craft coach, and lately product manager of an internal
 developer portal built on [Backstage.io](https://backstage.io).
 
