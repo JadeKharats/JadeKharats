@@ -28,5 +28,4 @@ developer portal built on [Backstage.io](https://backstage.io).
 
 - [LinkedIn](https://www.linkedin.com/in/david-yoteau-02a9b935/)
 - [DoYouBuzz CV](https://www.doyoubuzz.com/david-yoteau)
-- [X / Twitter](https://x.com/david_yoteau)
 - 📫 david@yoteau.fr
